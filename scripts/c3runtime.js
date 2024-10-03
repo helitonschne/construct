@@ -4678,10 +4678,9 @@ self.C3_ExpressionFuncs = [
 		() => 1,
 		() => "sfx_player_death",
 		() => "anm_fade_out",
-		() => "music",
-		() => -3,
-		() => "muic",
-		() => ""
+		() => "",
+		() => "música",
+		() => "anm_player_jump"
 ];
 
 

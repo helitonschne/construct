@@ -1,7 +1,7 @@
 {
-	"name": "jogo da bolinha",
-	"short_name": "jogo da bolinha",
-	"description": "Jogo da bolinha para aprender como usar a ferramenta",
+	"name": "Jogo da Bolinha",
+	"short_name": "Jogo da Bolinha",
+	"description": "Jogo da bolinha",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",

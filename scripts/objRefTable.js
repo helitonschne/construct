@@ -21,12 +21,13 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Acts.GoToLayout,
 		C3.Plugins.Sprite.Acts.SetVisible,
 		C3.Plugins.System.Acts.RestartLayout,
+		C3.Plugins.Audio.Acts.StopAll,
+		C3.Plugins.Sprite.Acts.Spawn,
 		C3.Plugins.System.Cnds.OnLayoutStart,
 		C3.Plugins.Audio.Cnds.IsTagPlaying,
 		C3.Plugins.Audio.Acts.Play,
-		C3.Plugins.System.Cnds.Else,
-		C3.Plugins.Audio.Acts.StopAll,
-		C3.Plugins.Sprite.Acts.Spawn
+		C3.Plugins.System.Cnds.OnLayoutEnd,
+		C3.Behaviors.Platform.Cnds.IsJumping
 	];
 };
 self.C3_JsPropNameTable = [
